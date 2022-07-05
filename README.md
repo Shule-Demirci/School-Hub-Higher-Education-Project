@@ -1,9 +1,9 @@
-<h1>Triforcia Cruise Project(In Progress) </h1>
+<h1>School Hub Project(In Progress) </h1>
 
-<a href="clarusway_project__cruise_holiday.pdf">Project Description(pdf)</a>
+
 
 <h2>Description</h2>
-Project is focused on helping a cruise company contacted to Triforcia for transforming  their previous processes into the Salesforce, created new custom objects and custom fields to track specific requirements, and created a custom junction object to enable accurate tracking of specific data, set up the web-to-Lead system to gather customers and support requests, added Validation Rules for certain fields that would display an error message if certain criteria were met, developed and documented process flows, created different reports and added them to a custom dashboard to track data for the client 
+Created a Salesforce platform as a volunteer project for a Non-Profit Online College for current students and prospective students to recruit, created web-to-lead to gather prospective students’ data, added objects and tailored page layouts as the institution’s needs evolve with new business models and revenue streams, created a report for a different part of the institution: Recruitment and Admissions, Student Experience, K-12 schools, and Advancement, created multiple reports in EDA 
 
 <br />
 
