@@ -26,21 +26,10 @@ Created a Salesforce platform as a volunteer project for a Non-Profit Online Col
 
 <p align="center">
 <br/>
-<img src="Lucid Chart .png"/>
+<img src="School Hub Project.png"/>
 <br />
 <br />
   <br/>
-<img src="Schema Builder Relationships .png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- <br/>
-<img src="Schema Builder Relationships 2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- <br/>
-<img src="Tasks to Complete .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 
 <!--
  ```diff
