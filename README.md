@@ -30,7 +30,12 @@ Created a Salesforce platform as a volunteer project for a Non-Profit Online Col
 <br />
 <br />
   <br/>
-
+<p align="center">
+<br/>
+<img src="School Hub Project"/>
+<br />
+<br />
+  <br/>
 <!--
  ```diff
 - text in red
