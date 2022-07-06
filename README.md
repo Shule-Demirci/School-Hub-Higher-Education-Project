@@ -28,12 +28,7 @@ Created a Salesforce platform as a volunteer project for a Non-Profit Online Col
 <br/>
 <img src="School Hub Project.png"/>
 <br />
-  <p align="center">
-<br/>
-<img src="School Hub Project"/>
-<br />
-<br />
-  <br/>
+
 <br />
   <br/>
 
